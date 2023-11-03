@@ -1,0 +1,15 @@
+.my_pdf {
+    min-height: 100vh;
+    display: grid;
+    place-content: center;
+    gap: 12px;
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    max-width: 1260px;
+    padding: 10px;
+}
